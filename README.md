@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+💻 **Developer** with experience in **Python**, **JavaScript**, **TypeScript**, and frameworks like **Django** and **React**.  
+🌱 Currently learning **machine learning** and **neural networks**.  
+💼 Working on open-source projects and continuously expanding my knowledge in **AI** and **web development**.  
+🎯 Passionate about building scalable applications and exploring innovations in **data technologies**.
+
 <!--
 **currencyxvd/currencyxvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
