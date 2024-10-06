@@ -1,12 +1,39 @@
 ## Hi there 👋
+# Hello! 👋
 
-💻 **Developer** with experience in **Python**, **JavaScript**, **TypeScript**, and frameworks like **Django** and **React**.  
-🌱 Currently learning **machine learning** and **neural networks**.  
-💼 Working on open-source projects and continuously expanding my knowledge in **AI** and **web development**.  
-🎯 Passionate about building scalable applications and exploring innovations in **data technologies**.
+My name is **[Your Name]**, and I am a developer with extensive experience in programming. My interests span various technologies, and I strive to create quality and efficient code.
 
-<!--
-**currencyxvd/currencyxvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technical Skills:
+
+- **Programming Languages**:
+  - Python (Django, Flask, FastAPI)
+  - JavaScript (Node.js, React, Vue.js)
+  - TypeScript
+  - Go
+  - C++
+  - Java
+  - PHP
+  - SQL (PostgreSQL, MySQL, SQLite)
+
+- **DevOps and CI/CD**:
+  - Docker, Kubernetes
+  - GitHub Actions, Jenkins
+  - Ansible, Terraform
+  - AWS, GCP, Azure
+
+- **Development Methodologies**:
+  - Agile, Scrum, Kanban
+  - TDD (Test Driven Development)
+  - DDD (Domain Driven Design)
+  - REST API and GraphQL
+
+
+## 🧠 Continuous Learning:
+
+I am always eager to grow and explore new technologies. Currently, I am diving deeper into blockchain.
+
+---
+
 
 Here are some ideas to get you started:
 
