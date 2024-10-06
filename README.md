@@ -1,7 +1,5 @@
 ## Hi there 👋
-# Hello! 👋
-
-My name is **[Your Name]**, and I am a developer with extensive experience in programming. My interests span various technologies, and I strive to create quality and efficient code.
+I am a developer with extensive experience in programming. My interests span various technologies, and I strive to create quality and efficient code.
 
 ## 🔧 Technical Skills:
 
